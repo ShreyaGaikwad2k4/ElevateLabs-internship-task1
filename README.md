@@ -17,3 +17,5 @@ My Links
 LinkedIn: https://www.linkedin.com/in/shreya-gaikwad-2k4
 
 GitHub: https://github.com/ShreyaGaikwad2k4
+
+Live Site Link: https://shreyagaikwad2k4.github.io/ElevateLabs-internship-task1/
