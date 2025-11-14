@@ -1,6 +1,4 @@
-/* --- Global Styles --- */
 
-/* Reset basic spacing and box model */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -61,9 +59,9 @@ a {
 
 .cta-link:hover {
     background-color: #2563eb;
-    color: white; /* Keep text white/* --- Global Styles --- */
+    color: white; 
 
-/* Reset basic spacing and box model */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -243,7 +241,7 @@ a {
     }
 
     .hero-content {
-        max-width: 100%; /* Allows content to take full width */
+        max-width: 100%;
     }
 
     .hero-section h1 {
@@ -391,7 +389,7 @@ a {
     }
 
     .hero-content {
-        max-width: 100%; /* Allows content to take full width */
+        max-width: 100%; 
     }
 
     .hero-section h1 {
@@ -408,4 +406,5 @@ a {
     .footer {
         padding: 2rem 1rem;
     }
+
 }
